@@ -1,4 +1,4 @@
-/*
+
 // variables
 const accountId = 191907
 let accountEmail = "singhshreya@gmail.com"
@@ -13,11 +13,11 @@ accountEmail = "fgdteyr@gmail.com"
 accountPassword = "09456"
 accountCity = "Pune"
 
-console.table([accountId, accountEmail, accountPassword, accountCitry]);*/
+console.table([accountId, accountEmail, accountPassword, accountCitry]);
 
 
 
-/*
+
 //datatypes
 let score=33     // (33=number, "33"=string, true/false=1/0, 33abc=NaN)
 console.log(typeof score);
@@ -42,11 +42,11 @@ console.log(booleanIsLoggedIn);
 let somenumber=31
 let stringNumber=String(somenumber)
 console.log(stringNumber);
-console.log(typeof stringNumber);*/
+console.log(typeof stringNumber);
 
 
 
-/*
+
 //operations
 let value=5
 let negValue = -value
@@ -79,11 +79,11 @@ num1=num2=num3=5+5
 
 let gameCounter=100
 gameCounter++
-console.log(gameCounter);*/
+console.log(gameCounter);
 
 
 
-/*
+
 //comparision
 console.log(1>7);
 console.log(2<8);
@@ -101,7 +101,7 @@ console.log(null>=0);
 
 console.log(undefined==0);
 console.log(undefined>0);
-console.log(undefined<0);*/
+console.log(undefined<0);
 
 
 
