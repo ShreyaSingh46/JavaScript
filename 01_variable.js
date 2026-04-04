@@ -1,4 +1,3 @@
-
 // variables
 const accountId = 191907
 let accountEmail = "singhshreya@gmail.com"

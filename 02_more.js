@@ -1,5 +1,5 @@
 // NUMBERS
-/*const score = 400
+const score = 400
 console.log(score);
 
 const balance = new Number(100)
@@ -12,10 +12,10 @@ const otherNumber = 123.8966
 console.log(otherNumber.toPrecision(3));
 
 const hundreds = 100000
-console.log(hundreds.toLocaleString('en-IN')); */
+console.log(hundreds.toLocaleString('en-IN')); 
 
 // MATHEMATICS
-/*console.log(Math);
+console.log(Math);
 console.log(Math.abs(-4));
 console.log(Math.round(4.6));
 console.log(Math.ceil(4.2));
@@ -33,7 +33,7 @@ const min = 10
 const max = 20
 
 console.log(Math.floor(Math.random() * (max - min + 1))+ min);
-*/
+
 
 
 //Dates
