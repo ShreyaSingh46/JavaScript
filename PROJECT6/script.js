@@ -1,10 +1,9 @@
 //generate a random color
-
 const randomColor = function () {
     const hex = '0123456789ABCDEF';
     let color = '#';
     for (let i = 0; i < 8; i++) {
-    color += hex[Math.floor(Math.random() * 16)];  //why floor? we don't want a decimal value 
+    color += hex[Math.floor(Math.random() * 16)];  //why floor? we don't want a decimal value, okay????
 }
 return color;
 };
